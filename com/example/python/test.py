@@ -1,5 +1,5 @@
-#import numpy as ny
-#import os as os
+import numpy as ny
+import os as os
 #s = "uxwrpxlwocnimr";
 s="axabc";
 count = True;
